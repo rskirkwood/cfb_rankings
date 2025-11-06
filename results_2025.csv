@@ -1,0 +1,700 @@
+team,normalized_score,raw_score,games_processed,wins,losses
+Eastern Oregon,6.0,6.0,1,0,0
+Ohio State,5.25,42.0,8,8,0
+Indiana,4.888888888888889,44.0,9,9,0
+Johns Hopkins University,4.875,39.0,8,8,0
+North Dakota State,4.666666666666667,42.0,9,9,0
+Montana,4.555555555555555,41.0,9,9,0
+University of Mount Union,4.5,36.0,8,8,0
+Harding University,4.222222222222222,38.0,9,9,0
+North Central College,4.125,33.0,8,8,0
+Wisconsin-River Falls,4.125,33.0,8,7,1
+Texas A&M,4.125,33.0,8,8,0
+West Florida,4.111111111111111,37.0,9,9,0
+Lehigh,4.111111111111111,37.0,9,9,0
+BYU,4.0,32.0,8,8,0
+Georgia,4.0,32.0,8,7,1
+Wartburg,4.0,36.0,9,9,0
+Kutztown University,3.888888888888889,35.0,9,9,0
+Alabama,3.75,30.0,8,7,1
+Louisville,3.75,30.0,8,7,1
+Central Washington,3.6666666666666665,33.0,9,8,1
+Ashland,3.5555555555555554,32.0,9,8,1
+North Texas,3.5555555555555554,32.0,9,8,1
+Virginia,3.5555555555555554,32.0,9,8,1
+Bethel (MN),3.5,28.0,8,8,0
+Oklahoma,3.4444444444444446,31.0,9,7,2
+Wingate,3.4444444444444446,31.0,9,7,2
+Indianapolis,3.4444444444444446,31.0,9,8,1
+Berry College,3.375,27.0,8,7,1
+Salisbury,3.375,27.0,8,8,0
+Findlay,3.3333333333333335,30.0,9,9,0
+Ole Miss,3.3333333333333335,30.0,9,8,1
+John Carroll University,3.25,26.0,8,7,1
+Northwest Missouri St,3.2222222222222223,29.0,9,8,1
+Texas Tech,3.2222222222222223,29.0,9,8,1
+Augustana University (SD),3.2222222222222223,29.0,9,9,0
+Johnson C Smith,3.2222222222222223,29.0,9,8,1
+Cortland,3.125,25.0,8,7,1
+Hardin-Simmons,3.125,25.0,8,8,0
+Wisconsin-Platteville,3.125,25.0,8,6,2
+Hope College,3.125,25.0,8,7,1
+Eastern University,3.125,25.0,8,7,1
+Ferris State,3.111111111111111,28.0,9,9,0
+Utah,3.111111111111111,28.0,9,7,2
+Georgia Tech,3.111111111111111,28.0,9,8,1
+Wisconsin-Whitewater,3.0,24.0,8,6,2
+Oregon,3.0,24.0,8,7,1
+Washington,3.0,24.0,8,6,2
+Valley City State,3.0,3.0,1,0,0
+Wisconsin-Lacrosse,3.0,21.0,7,6,1
+South Florida,3.0,24.0,8,6,2
+Christopher Newport,3.0,24.0,8,8,0
+Minnesota Duluth,3.0,27.0,9,8,1
+Webber International,3.0,3.0,1,0,0
+Coast Guard,3.0,24.0,8,7,1
+Trinity University TX,3.0,24.0,8,7,1
+Wabash College,3.0,24.0,8,7,1
+Wayland Baptist,3.0,3.0,1,0,0
+Endicott College,3.0,24.0,8,7,1
+Harvard,3.0,21.0,7,7,0
+Michigan,2.888888888888889,26.0,9,7,2
+Newberry,2.888888888888889,26.0,9,8,1
+Wheaton,2.875,23.0,8,6,2
+Muhlenberg,2.875,23.0,8,6,2
+Saint John's (MN),2.875,23.0,8,7,1
+Miami,2.875,23.0,8,6,2
+Grove City College,2.875,23.0,8,6,2
+Concordia-Wisconsin,2.7777777777777777,25.0,9,8,1
+Tennessee Tech,2.7777777777777777,25.0,9,9,0
+Benedict College,2.7777777777777777,25.0,9,8,1
+Albany State GA,2.7777777777777777,25.0,9,8,1
+Alma,2.75,22.0,8,6,2
+James Madison,2.75,22.0,8,7,1
+Monmouth (IL),2.75,22.0,8,7,1
+Arizona State,2.6666666666666665,24.0,9,6,3
+Presbyterian,2.6666666666666665,24.0,9,8,1
+Susquehanna,2.625,21.0,8,6,2
+USC,2.625,21.0,8,6,2
+Whitworth,2.625,21.0,8,6,2
+Carson-Newman College,2.625,21.0,8,6,2
+Memphis,2.5555555555555554,23.0,9,8,1
+Vanderbilt,2.5555555555555554,23.0,9,7,2
+Pittsburg St,2.5555555555555554,23.0,9,7,2
+Montana State,2.5555555555555554,23.0,9,7,2
+Notre Dame,2.5,20.0,8,6,2
+Chapman,2.5,20.0,8,6,2
+Tarleton State,2.5,25.0,10,9,1
+Mercer,2.5,20.0,8,7,1
+Washington & Jefferson,2.5,20.0,8,6,2
+Central College,2.5,20.0,8,7,1
+Franklin & Marshall,2.5,20.0,8,7,1
+Delta State,2.4444444444444446,22.0,9,7,2
+Western Colorado,2.4444444444444446,22.0,9,8,1
+PennWest California,2.4444444444444446,22.0,9,6,3
+Illinois,2.4444444444444446,22.0,9,6,3
+Texas,2.4444444444444446,22.0,9,7,2
+South Dakota State,2.4444444444444446,22.0,9,7,2
+Monmouth,2.4444444444444446,22.0,9,8,1
+CSU Pueblo,2.4444444444444446,22.0,9,8,1
+Calvin University,2.375,19.0,8,6,2
+Utica,2.375,19.0,8,6,2
+Navy,2.375,19.0,8,7,1
+Belhaven,2.375,19.0,8,6,2
+San Diego State,2.375,19.0,8,7,1
+Trinity (CT),2.375,19.0,8,7,1
+Virginia Union,2.3333333333333335,21.0,9,8,1
+Houston,2.3333333333333335,21.0,9,7,2
+Rowan,2.2857142857142856,16.0,7,5,2
+Dartmouth,2.2857142857142856,16.0,7,5,2
+Indiana-Pennsylvania,2.25,18.0,8,6,2
+Anna Maria College,2.25,18.0,8,6,2
+Biddeford,2.25,18.0,8,7,1
+Baldwin Wallace,2.25,18.0,8,7,1
+Tulane,2.25,18.0,8,6,2
+Redlands,2.25,18.0,8,6,2
+LSU,2.25,18.0,8,5,3
+Old Dominion,2.2222222222222223,20.0,9,6,3
+Kentucky State,2.2222222222222223,20.0,9,7,2
+Linfield College,2.142857142857143,15.0,7,5,2
+Ohio Northern,2.125,17.0,8,6,2
+Rensselaer,2.125,17.0,8,7,1
+TCU,2.125,17.0,8,6,2
+Southern Miss,2.125,17.0,8,6,2
+Hampden-Sydney,2.125,17.0,8,7,1
+Assumption,2.125,17.0,8,7,1
+Emory & Henry College,2.111111111111111,19.0,9,6,3
+UT Permian Basin,2.111111111111111,19.0,9,7,2
+Pittsburgh,2.111111111111111,19.0,9,7,2
+Upper Iowa University,2.111111111111111,19.0,9,7,2
+Randolph-Macon,2.111111111111111,19.0,9,8,1
+Cincinnati,2.111111111111111,19.0,9,7,2
+UNC Pembroke,2.1,21.0,10,8,2
+Augustana (IL),2.0,16.0,8,6,2
+Minnesota State Mankato,2.0,18.0,9,7,2
+Slippery Rock,2.0,16.0,8,6,2
+Nebraska,2.0,18.0,9,6,3
+Sacred Heart,2.0,18.0,9,6,3
+Drake,2.0,16.0,8,6,2
+Lagrange College,2.0,16.0,8,7,1
+Kennesaw State,2.0,16.0,8,6,2
+Lamar,2.0,18.0,9,7,2
+Villanova,1.875,15.0,8,6,2
+Depauw,1.875,15.0,8,7,1
+Alabama State,1.875,15.0,8,6,2
+Plymouth State,1.875,15.0,8,7,1
+College Of New Jersey,1.875,15.0,8,6,2
+Missouri,1.875,15.0,8,6,2
+Carnegie Mellon,1.875,15.0,8,5,3
+Pennsylvania,1.8571428571428572,13.0,7,5,2
+Tennessee,1.7777777777777777,16.0,9,6,3
+Northern State,1.7777777777777777,16.0,9,6,3
+Boise State,1.7777777777777777,16.0,9,6,3
+Jackson State,1.75,14.0,8,6,2
+West Alabama,1.75,14.0,8,5,3
+Wisconsin-Stout,1.75,14.0,8,5,3
+California Lutheran University,1.75,14.0,8,6,2
+Wake Forest,1.75,14.0,8,5,3
+Maryville College (TN),1.75,14.0,8,7,1
+Misericordia,1.75,14.0,8,6,2
+Adrian,1.75,14.0,8,7,1
+Duke,1.75,14.0,8,5,3
+University Of Charleston (WV),1.6666666666666667,15.0,9,6,3
+NC State,1.6666666666666667,15.0,9,5,4
+Grambling,1.6666666666666667,15.0,9,6,3
+Iowa State,1.6666666666666667,15.0,9,5,4
+Southern Arkansas,1.6666666666666667,15.0,9,6,3
+Minnesota,1.6666666666666667,15.0,9,6,3
+Coe College,1.625,13.0,8,6,2
+Carleton,1.625,13.0,8,6,2
+Illinois College,1.625,13.0,8,6,2
+Yale,1.5714285714285714,11.0,7,5,2
+Truman State,1.5555555555555556,14.0,9,6,3
+Michigan Tech,1.5555555555555556,14.0,9,7,2
+Frostburg State,1.5555555555555556,14.0,9,7,2
+Sioux Falls,1.5555555555555556,14.0,9,6,3
+Stephen F. Austin,1.5555555555555556,14.0,9,7,2
+Northwood (MI),1.5555555555555556,14.0,9,7,2
+Ithaca College,1.5,12.0,8,6,2
+Washington University (St. Louis),1.5,12.0,8,6,2
+Springfield,1.5,12.0,8,6,2
+East Carolina,1.5,12.0,8,5,3
+Chicago,1.5,12.0,8,6,2
+UC Davis,1.5,12.0,8,6,2
+Iowa,1.5,12.0,8,6,2
+SMU,1.4444444444444444,13.0,9,6,3
+Arizona,1.375,11.0,8,5,3
+Wesleyan University (CT),1.375,11.0,8,6,2
+Curry College,1.375,11.0,8,7,1
+UNLV,1.375,11.0,8,6,2
+Louisiana Tech,1.375,11.0,8,5,3
+Catawba,1.3333333333333333,12.0,9,6,3
+Illinois State,1.3333333333333333,12.0,9,6,3
+Gardner-Webb,1.3333333333333333,12.0,9,5,4
+Merchant Marine Academy,1.2857142857142858,9.0,7,5,2
+Brockport,1.25,10.0,8,6,2
+Wisconsin-Oshkosh,1.25,10.0,8,4,4
+Benedictine University,1.25,10.0,8,6,2
+St. Norbert,1.25,10.0,8,5,3
+Coastal Carolina,1.25,10.0,8,5,3
+Western Kentucky,1.2222222222222223,11.0,9,7,2
+Butler,1.2222222222222223,11.0,9,5,4
+Fayetteville State,1.2222222222222223,11.0,9,5,4
+Chadron St,1.2222222222222223,11.0,9,7,2
+East Central (OK),1.2222222222222223,11.0,9,6,3
+Heidelberg,1.125,9.0,8,5,3
+Millsaps,1.125,9.0,8,5,3
+Denison University,1.125,9.0,8,5,3
+Centre College Kentucky,1.125,9.0,8,3,5
+Hanover College,1.125,9.0,8,6,2
+Colby College,1.125,9.0,8,5,3
+Union (NY),1.125,9.0,8,6,2
+Ohio,1.1111111111111112,10.0,9,6,3
+Edinboro University,1.1111111111111112,10.0,9,5,4
+Rhode Island,1.1111111111111112,10.0,9,7,2
+Abilene Christian,1.1111111111111112,10.0,9,5,4
+New Mexico,1.1111111111111112,10.0,9,6,3
+Ouachita Baptist,1.1111111111111112,10.0,9,6,3
+Arkansas Tech,1.1111111111111112,10.0,9,6,3
+West Georgia,1.1111111111111112,10.0,9,6,3
+South Dakota,1.1,11.0,10,6,4
+Nebraska-Kearney,1.1,11.0,10,6,4
+Henderson State,1.0,9.0,9,6,3
+Mississippi State,1.0,9.0,9,5,4
+Troy,1.0,9.0,9,6,3
+Dakota State University,1.0,1.0,1,0,0
+Simpson College (IA),1.0,8.0,8,5,3
+Missouri State,1.0,8.0,8,5,3
+Madonna University (Mich.),1.0,1.0,1,0,0
+SE Louisiana,1.0,9.0,9,7,2
+Delaware Valley,1.0,8.0,8,5,3
+Shenandoah,1.0,8.0,8,6,2
+Framingham State,1.0,8.0,8,5,3
+North Dakota,1.0,9.0,9,6,3
+St John Fisher University,1.0,8.0,8,5,3
+North Greenville,0.8888888888888888,8.0,9,5,4
+Walsh,0.8888888888888888,8.0,9,6,3
+Fresno State,0.8888888888888888,8.0,9,6,3
+West Texas A&M,0.8888888888888888,8.0,9,5,4
+Clarion,0.8888888888888888,8.0,9,6,3
+Colorado School Of Mines,0.8888888888888888,8.0,9,6,3
+Florida,0.875,7.0,8,3,5
+Westminster (PA),0.875,7.0,8,5,3
+Salve Regina,0.875,7.0,8,4,4
+Northwestern,0.875,7.0,8,5,3
+Aurora,0.875,7.0,8,5,3
+Williams,0.875,7.0,8,5,3
+SUNY Maritime,0.875,7.0,8,5,3
+Angelo State,0.875,7.0,8,6,3
+East Stroudsburg University,0.7777777777777778,7.0,9,6,3
+North Carolina Central,0.7777777777777778,7.0,9,6,3
+Kansas,0.7777777777777778,7.0,9,5,4
+Minnesota State Moorhead,0.7777777777777778,7.0,9,6,3
+Western Carolina,0.7777777777777778,7.0,9,6,3
+Shepherd,0.7777777777777778,7.0,9,5,4
+Western Oregon,0.7777777777777778,7.0,9,7,2
+Lebanon Valley,0.75,6.0,8,4,4
+Florida State,0.75,6.0,8,4,4
+Kings College (PA),0.75,6.0,8,5,3
+Edward Waters,0.6666666666666666,6.0,9,5,4
+Dayton,0.6666666666666666,6.0,9,6,3
+UConn,0.6666666666666666,6.0,9,6,3
+Tiffin,0.6666666666666666,6.0,9,6,3
+Kentucky Christian,0.6666666666666666,2.0,3,0,0
+Southwestern Oklahoma State,0.6666666666666666,6.0,9,5,4
+Howard Payne,0.625,5.0,8,3,5
+Wisconsin-Stevens Pt,0.625,5.0,8,4,4
+UTSA,0.625,5.0,8,4,4
+Mount St. Joseph,0.625,5.0,8,4,4
+Wilkes,0.625,5.0,8,5,3
+Washington and Lee,0.625,5.0,8,5,3
+Fort Hays State,0.6,6.0,10,5,5
+Lenoir-Rhyne,0.6,6.0,10,5,5
+Brown,0.5714285714285714,4.0,7,3,4
+Furman,0.5555555555555556,5.0,9,5,4
+New Mexico Highlands,0.5555555555555556,5.0,9,5,4
+Prairie View A&M,0.5555555555555556,5.0,9,6,3
+Central Connecticut,0.5555555555555556,5.0,9,6,3
+Youngstown State,0.5555555555555556,5.0,9,5,4
+Western Michigan,0.5555555555555556,5.0,9,5,4
+Washington State,0.5555555555555556,5.0,9,4,5
+UT Rio Grande Valley,0.5555555555555556,5.0,9,6,3
+Lock Haven University,0.5555555555555556,5.0,9,5,4
+California,0.5555555555555556,5.0,9,5,4
+William & Mary,0.5555555555555556,5.0,9,5,4
+Kansas State,0.5555555555555556,5.0,9,4,5
+Concordia Moorhead,0.5,4.0,8,5,3
+Mary Hardin-Baylor,0.5,4.0,8,5,3
+Trine University,0.5,4.0,8,4,4
+Texas Lutheran,0.5,4.0,8,5,3
+Brevard College,0.5,4.0,8,4,4
+Colorado Mesa,0.4444444444444444,4.0,9,5,4
+San Diego,0.4444444444444444,4.0,9,5,4
+Delaware State,0.4444444444444444,4.0,9,6,3
+Indiana State,0.4444444444444444,4.0,9,3,6
+South Carolina State,0.4444444444444444,4.0,9,6,3
+Baylor,0.4444444444444444,4.0,9,5,4
+New Hampshire,0.4444444444444444,4.0,9,5,4
+Temple,0.4444444444444444,4.0,9,5,4
+MIT,0.42857142857142855,3.0,7,4,3
+Augsburg,0.375,3.0,8,3,5
+Western New England,0.375,3.0,8,4,4
+Dickinson (PA),0.375,3.0,8,4,4
+Army,0.375,3.0,8,4,4
+Rice,0.3333333333333333,3.0,9,4,5
+Rutgers,0.3333333333333333,3.0,9,4,5
+Wheeling,0.3333333333333333,3.0,9,5,4
+Central Oklahoma,0.3333333333333333,3.0,9,4,5
+Glenville State,0.3333333333333333,3.0,9,5,4
+Colorado,0.3333333333333333,3.0,9,3,6
+Roanoke College,0.2857142857142857,2.0,7,0,0
+Valdosta State,0.25,2.0,8,4,4
+Utah State,0.25,2.0,8,4,4
+Illinois Wesleyan,0.25,2.0,8,4,4
+Hendrix College,0.25,2.0,8,5,3
+UAB,0.25,2.0,8,3,5
+Winona State,0.2222222222222222,2.0,9,4,5
+Auburn,0.2222222222222222,2.0,9,4,5
+West Virginia,0.2222222222222222,2.0,9,3,6
+Southern Illinois,0.2222222222222222,2.0,9,6,3
+Georgetown,0.2222222222222222,2.0,9,5,4
+Bethune-Cookman,0.2222222222222222,2.0,9,5,4
+West Virginia State,0.2222222222222222,2.0,9,5,4
+Princeton,0.14285714285714285,1.0,7,3,4
+Franklin Pierce,0.125,1.0,8,4,4
+Grand Valley State University,0.125,1.0,8,5,3
+Liberty,0.125,1.0,8,4,4
+Huntingdon College (AL),0.125,1.0,8,4,4
+Marshall,0.125,1.0,8,4,4
+Southern Virginia,0.125,1.0,8,6,2
+Delaware,0.125,1.0,8,4,4
+Stevenson,0.125,1.0,8,5,3
+Northeastern State,0.125,1.0,8,5,3
+Lake Forest College,0.125,1.0,8,5,3
+Ohio Dominican,0.125,1.0,8,4,4
+Ursinus,0.125,1.0,8,5,3
+Montclair State,0.125,1.0,8,3,5
+Hobart College,0.125,1.0,8,3,5
+Maryland,0.125,1.0,8,4,4
+South Carolina,0.1111111111111111,1.0,9,3,6
+Southern Utah,0.1111111111111111,1.0,9,4,5
+Cal Poly,0.1111111111111111,1.0,9,3,6
+Austin Peay,0.1111111111111111,1.0,9,5,4
+Virginia St,0.1111111111111111,1.0,9,6,3
+Sacramento State,0.1111111111111111,1.0,9,5,4
+Northern Arizona,0.1111111111111111,1.0,9,5,4
+Miami (OH),0.1111111111111111,1.0,9,5,4
+Hawai'i,0.1111111111111111,1.0,9,6,3
+Wayne State (NE),0.1111111111111111,1.0,9,5,4
+Mars Hill,0.0,0.0,9,4,5
+Lewis & Clark College,0.0,0.0,8,5,3
+University of Rio Grande,0.0,0.0,1,0,0
+Southwestern Assemblies Of God,0.0,0.0,1,0,0
+Tufts,0.0,0.0,8,4,4
+Marietta,0.0,0.0,8,4,4
+Middlebury,0.0,0.0,8,4,4
+Geneva,0.0,0.0,8,5,3
+Davenport,0.0,0.0,8,5,3
+Cumberland (TN),0.0,0.0,1,0,0
+St. Thomas (MN),0.0,0.0,9,6,3
+UCLA,0.0,0.0,8,3,5
+Mass Maritime,0.0,0.0,8,4,4
+Case Western Reserve,0.0,0.0,7,4,3
+Lindenwood,-0.1111111111111111,-1.0,9,4,5
+Central Missouri,-0.1111111111111111,-1.0,9,4,5
+Chattanooga,-0.1111111111111111,-1.0,9,4,5
+Georgia Southern,-0.125,-1.0,8,3,5
+University of Rochester (NY),-0.125,-1.0,8,5,3
+Amherst,-0.125,-1.0,8,4,4
+Gustavus Adolphus,-0.125,-1.0,8,3,5
+Crown College,-0.125,-1.0,8,5,3
+Penn State,-0.125,-1.0,8,3,5
+Greenville,-0.14285714285714285,-1.0,7,4,3
+Missouri S&T,-0.2,-2.0,10,4,5
+The Citadel,-0.2222222222222222,-2.0,9,4,5
+Wooster,-0.2222222222222222,-2.0,9,5,4
+Lafayette,-0.2222222222222222,-2.0,9,6,3
+Arkansas State,-0.2222222222222222,-2.0,9,5,4
+Lycoming,-0.2222222222222222,-2.0,9,4,5
+Fairmont State,-0.2222222222222222,-2.0,9,5,4
+UCF,-0.25,-2.0,8,4,4
+Pacific Lutheran,-0.25,-2.0,8,4,4
+Jacksonville State,-0.25,-2.0,8,5,3
+Florida International,-0.25,-2.0,8,3,5
+Alfred University,-0.25,-2.0,8,3,5
+Bridgewater State,-0.25,-2.0,8,4,4
+Anderson (Sc),-0.3,-3.0,10,5,5
+Emporia State University,-0.3333333333333333,-3.0,9,4,5
+Stanford,-0.3333333333333333,-3.0,9,3,6
+West Chester,-0.3333333333333333,-3.0,9,4,5
+Central Michigan,-0.3333333333333333,-3.0,9,5,4
+Eastern Kentucky,-0.3333333333333333,-3.0,9,4,5
+Savannah St,-0.3333333333333333,-3.0,9,4,5
+Virginia Tech,-0.3333333333333333,-3.0,9,3,6
+Hillsdale,-0.3333333333333333,-3.0,9,4,5
+Toledo,-0.375,-3.0,8,4,4
+Kentucky,-0.375,-3.0,8,3,5
+App State,-0.375,-3.0,8,4,4
+Northwestern (MN),-0.375,-3.0,8,3,5
+East Texas Baptist University,-0.375,-3.0,8,4,4
+Florida Atlantic,-0.375,-3.0,8,3,5
+Charleston Southern,-0.4,-4.0,10,4,6
+Michigan State,-0.4444444444444444,-4.0,9,3,6
+Duquesne,-0.4444444444444444,-4.0,9,5,4
+Wittenberg,-0.4444444444444444,-4.0,9,3,6
+Syracuse,-0.4444444444444444,-4.0,9,3,6
+Stony Brook,-0.4444444444444444,-4.0,9,4,5
+Maine,-0.4444444444444444,-4.0,9,5,4
+Bentley,-0.5,-4.0,8,5,3
+Wisconsin,-0.5,-4.0,8,2,6
+Claremont-Mudd-Scripps College,-0.5,-4.0,8,3,5
+UMass Dartmouth,-0.5,-4.0,8,4,4
+Richmond,-0.5555555555555556,-5.0,9,5,4
+Elon,-0.5555555555555556,-5.0,9,4,5
+Saginaw Valley State,-0.5555555555555556,-5.0,9,5,4
+Bowling Green,-0.5555555555555556,-5.0,9,3,6
+Southwestern University,-0.625,-5.0,8,3,5
+McMurry,-0.625,-5.0,8,4,4
+Ripon,-0.625,-5.0,8,4,4
+Carroll University (WI),-0.625,-5.0,8,3,5
+Franklin,-0.625,-5.0,8,4,4
+Florida A&M,-0.625,-5.0,8,3,5
+Wisconsin-Eau Claire,-0.625,-5.0,8,3,5
+Albright,-0.625,-5.0,8,4,4
+North Carolina Wesleyan,-0.625,-5.0,8,4,4
+Wilmington (OH),-0.625,-5.0,8,3,5
+San José State,-0.625,-5.0,8,3,5
+Texas Southern,-0.625,-5.0,8,4,4
+Quincy,-0.6666666666666666,-6.0,9,5,4
+St. Anselm,-0.6666666666666666,-6.0,9,5,4
+Stetson,-0.6666666666666666,-6.0,9,3,6
+Wyoming,-0.6666666666666666,-6.0,9,4,5
+Dubuque,-0.6666666666666666,-6.0,9,3,6
+Weber State,-0.6666666666666666,-6.0,9,3,6
+Cornell,-0.7142857142857143,-5.0,7,3,4
+Muskingum University,-0.75,-6.0,8,3,5
+St. Olaf,-0.75,-6.0,8,3,5
+Texas State,-0.75,-6.0,8,3,5
+Clemson,-0.75,-6.0,8,3,5
+McKendree,-0.7777777777777778,-7.0,9,4,4
+University of Mary,-0.7777777777777778,-7.0,9,4,5
+Idaho State,-0.7777777777777778,-7.0,9,3,6
+Idaho,-0.7777777777777778,-7.0,9,4,5
+Southeastern Oklahoma State,-0.7777777777777778,-7.0,9,4,5
+Buffalo,-0.7777777777777778,-7.0,9,5,4
+Arkansas,-0.7777777777777778,-7.0,9,2,7
+Merrimack,-0.7777777777777778,-7.0,9,3,6
+Winston-Salem,-0.7777777777777778,-7.0,9,4,5
+Morehead State,-0.8,-8.0,10,5,5
+North Carolina,-0.875,-7.0,8,3,5
+Sewanee,-0.875,-7.0,8,3,5
+NEWBERG,-0.875,-7.0,8,3,5
+Kalamazoo,-0.875,-7.0,8,4,4
+Bluffton,-0.875,-7.0,8,5,3
+Bucknell,-0.8888888888888888,-8.0,9,4,5
+Oregon State,-0.8888888888888888,-8.0,9,2,7
+UL Monroe,-0.8888888888888888,-8.0,9,3,6
+East Tennessee State,-0.8888888888888888,-8.0,9,4,5
+Allen,-0.8888888888888888,-8.0,9,4,5
+Bemidji State,-0.8888888888888888,-8.0,9,3,6
+Seton Hill,-0.9,-9.0,10,4,6
+Pikeville,-1.0,-1.0,1,0,0
+Marian College,-1.0,-1.0,1,0,0
+Carthage,-1.0,-8.0,8,3,5
+Worcester Polytechnic Institute,-1.0,-8.0,8,2,6
+Mayville State,-1.0,-2.0,2,0,0
+Point University,-1.0,-2.0,2,0,0
+Keystone,-1.0,-2.0,2,1,1
+Alfred State,-1.0,-8.0,8,4,4
+BLUEFIELD,-1.0,-1.0,1,0,0
+Stonehill,-1.0,-9.0,9,3,6
+Macalester,-1.0,-8.0,8,3,5
+Marist,-1.0,-9.0,9,3,6
+Colgate,-1.0,-9.0,9,4,5
+Akron,-1.1,-11.0,10,4,6
+Incarnate Word,-1.1111111111111112,-10.0,9,3,6
+Fort Valley State,-1.1111111111111112,-10.0,9,4,5
+Livingstone,-1.1111111111111112,-10.0,9,5,4
+Howard,-1.1111111111111112,-10.0,9,4,5
+Central Arkansas,-1.1111111111111112,-10.0,9,3,6
+William Paterson,-1.125,-9.0,8,2,6
+Kent State,-1.125,-9.0,8,3,5
+Albion,-1.125,-9.0,8,2,6
+Widener,-1.125,-9.0,8,3,5
+Nichols College,-1.125,-9.0,8,2,6
+Cornell College (IA),-1.125,-9.0,8,3,5
+Air Force,-1.125,-9.0,8,2,6
+North Park,-1.125,-9.0,8,3,5
+Columbia,-1.1428571428571428,-8.0,7,1,6
+Louisiana,-1.2222222222222223,-11.0,9,3,6
+Texas A&M-Kingsville,-1.2222222222222223,-11.0,9,3,6
+Purdue,-1.2222222222222223,-11.0,9,2,7
+Southeast Missouri State,-1.2222222222222223,-11.0,9,3,6
+Northern Colorado,-1.2222222222222223,-11.0,9,3,6
+Towson,-1.2222222222222223,-11.0,9,4,5
+Pomona Pitzer,-1.25,-10.0,8,3,5
+Wisconsin-Lutheran,-1.25,-10.0,8,3,5
+Tulsa,-1.25,-10.0,8,2,6
+Husson,-1.25,-10.0,8,2,6
+Concordia University Chicago,-1.25,-10.0,8,4,4
+Loras College,-1.25,-10.0,8,2,6
+Bridgewater (VA),-1.25,-10.0,8,2,6
+Ball State,-1.25,-10.0,8,3,5
+Mercyhurst,-1.3333333333333333,-12.0,9,3,6
+Alabama A&M,-1.3333333333333333,-12.0,9,4,5
+Eastern Washington,-1.3333333333333333,-12.0,9,4,5
+Nicholls,-1.3333333333333333,-12.0,9,3,6
+Missouri Western,-1.3333333333333333,-12.0,9,3,6
+South Dakota Mines,-1.3333333333333333,-12.0,9,2,7
+UT Martin,-1.3333333333333333,-12.0,9,4,5
+Bates,-1.375,-11.0,8,2,6
+New Mexico State,-1.375,-11.0,8,3,5
+Colorado State,-1.375,-11.0,8,2,6
+Olivet College,-1.375,-11.0,8,1,7
+Missouri Southern State,-1.4444444444444444,-13.0,9,3,6
+Catholic,-1.4444444444444444,-13.0,9,3,6
+Tuskegee,-1.4444444444444444,-13.0,9,3,6
+Allegheny,-1.4444444444444444,-13.0,9,3,6
+Guilford College,-1.5,-12.0,8,2,6
+Minnesota Morris,-1.5,-12.0,8,2,6
+Martin Luther,-1.5,-12.0,8,4,4
+Kean,-1.5,-12.0,8,2,6
+Chowan,-1.5555555555555556,-14.0,9,3,6
+Waynesburg,-1.5555555555555556,-14.0,9,3,6
+Eastern New Mexico,-1.5555555555555556,-14.0,9,3,6
+New Haven,-1.5555555555555556,-14.0,9,4,5
+Western Connecticut St,-1.625,-13.0,8,4,4
+St. Scholastica,-1.625,-13.0,8,3,5
+Rose-Hulman,-1.625,-13.0,8,2,6
+Elizabeth City State,-1.6666666666666667,-15.0,9,3,6
+East Texas A&M,-1.6666666666666667,-15.0,9,2,7
+Wofford,-1.6666666666666667,-15.0,9,3,6
+Ohio Wesleyan,-1.75,-14.0,8,2,6
+Capital,-1.75,-14.0,8,2,6
+Arkansas-Pine Bluff,-1.75,-14.0,8,3,5
+Hartwick,-1.75,-14.0,8,3,5
+Lakeland,-1.75,-14.0,8,2,6
+Pacific (OR),-1.75,-14.0,8,3,5
+Bluefield State,-1.7777777777777777,-16.0,9,3,6
+Washburn,-1.7777777777777777,-16.0,9,2,7
+Morehouse College,-1.7777777777777777,-16.0,9,3,6
+Long Island University,-1.7777777777777777,-16.0,9,3,6
+LYONCOLL,-1.8571428571428572,-13.0,7,2,5
+Millikin,-1.875,-15.0,8,2,6
+Bowdoin,-1.875,-15.0,8,2,6
+Westminster College (MO),-1.875,-15.0,8,3,5
+Rhodes College,-1.875,-15.0,8,1,7
+Nebraska Wesleyan,-1.875,-15.0,8,1,7
+Fitchburg State,-1.875,-15.0,8,3,5
+Southwest Baptist,-1.875,-15.0,8,3,5
+Central State (OH),-1.9,-19.0,10,3,7
+Miles College,-2.0,-20.0,10,3,7
+Northern Iowa,-2.0,-18.0,9,2,7
+Hamline University,-2.0,-16.0,8,1,7
+Midwestern State,-2.0,-18.0,9,2,7
+Arkansas-Monticello,-2.0,-18.0,9,2,7
+Post University,-2.0,-16.0,8,3,5
+Southern Oregon,-2.0,-2.0,1,0,0
+Oklahoma Baptist,-2.0,-18.0,9,2,7
+Saint Xavier (IL),-2.0,-2.0,1,0,0
+Northern Michigan,-2.111111111111111,-19.0,9,1,8
+Wilson,-2.111111111111111,-19.0,9,2,7
+Gannon,-2.111111111111111,-19.0,9,1,8
+Shaw,-2.111111111111111,-19.0,9,2,7
+Oklahoma State,-2.111111111111111,-19.0,9,1,8
+Southern Connecticut State,-2.125,-17.0,8,2,6
+Castleton,-2.125,-17.0,8,2,6
+Charlotte,-2.125,-17.0,8,1,7
+St. Lawrence,-2.125,-17.0,8,2,6
+Buena Vista,-2.125,-17.0,8,2,6
+UTEP,-2.125,-17.0,8,2,6
+McDaniel College,-2.125,-17.0,8,1,7
+Southwest Minnesota State,-2.2222222222222223,-20.0,9,1,8
+Eastern Illinois,-2.2222222222222223,-20.0,9,3,6
+Wayne State (MI),-2.2222222222222223,-20.0,9,0,9
+Concord University,-2.2222222222222223,-20.0,9,3,6
+Clark Atlanta,-2.2222222222222223,-20.0,9,2,7
+South Alabama,-2.2222222222222223,-20.0,9,2,7
+Westfield State,-2.25,-18.0,8,2,6
+Worcester St,-2.25,-18.0,8,2,6
+Lake Erie,-2.3333333333333335,-21.0,9,1,8
+Shippensburg,-2.3333333333333335,-21.0,9,2,7
+Ferrum,-2.3333333333333335,-21.0,9,3,6
+Bowie State,-2.3333333333333335,-21.0,9,2,7
+Wagner,-2.3333333333333335,-21.0,9,3,6
+Buffalo State,-2.375,-19.0,8,1,7
+Greensboro College,-2.375,-19.0,8,1,7
+Saint Vincent,-2.375,-19.0,8,2,6
+Eureka College,-2.375,-19.0,8,2,6
+Nevada,-2.375,-19.0,8,1,7
+Northern Illinois,-2.375,-19.0,8,2,6
+Hamilton,-2.375,-19.0,8,1,7
+American International,-2.375,-19.0,8,1,7
+Knox College,-2.4285714285714284,-17.0,7,2,5
+Western New Mexico,-2.4444444444444446,-22.0,9,2,7
+Morgan State,-2.4444444444444446,-22.0,9,3,6
+Lincoln (MO),-2.4444444444444446,-22.0,9,2,7
+William Jewell,-2.4444444444444446,-22.0,9,2,7
+Black Hills State,-2.4444444444444446,-22.0,9,1,8
+Little Rock,-2.5,-5.0,2,0,0
+Thiel,-2.5,-20.0,8,1,7
+McNeese,-2.5555555555555554,-23.0,9,3,6
+Utah Tech,-2.5555555555555554,-23.0,9,2,7
+Campbell,-2.5555555555555554,-23.0,9,2,7
+Robert Morris,-2.5555555555555554,-23.0,9,3,6
+Bryant,-2.5555555555555554,-23.0,9,2,7
+Tennessee State,-2.5555555555555554,-23.0,9,2,7
+North Alabama,-2.5555555555555554,-23.0,9,2,7
+Gallaudet,-2.625,-21.0,8,1,7
+Grinnell,-2.625,-21.0,8,1,7
+Roosevelt,-2.625,-21.0,8,1,7
+Juniata College,-2.625,-21.0,8,2,6
+Gettysburg,-2.625,-21.0,8,0,8
+Anderson (IN),-2.625,-21.0,8,1,7
+Georgia State,-2.625,-21.0,8,1,7
+Kenyon,-2.625,-21.0,8,1,7
+Methodist,-2.625,-21.0,8,1,7
+UAlbany,-2.6666666666666665,-24.0,9,1,8
+Concordia University St Paul,-2.6666666666666665,-24.0,9,1,8
+Portland State,-2.6666666666666665,-24.0,9,1,8
+Otterbein,-2.75,-22.0,8,1,7
+Maine Maritime,-2.75,-22.0,8,0,8
+Hiram College,-2.75,-22.0,8,3,5
+Holy Cross,-2.7777777777777777,-25.0,9,1,8
+Western Illinois,-2.7777777777777777,-25.0,9,2,7
+Kentucky Wesleyan,-2.7777777777777777,-25.0,9,0,9
+Valparaiso,-2.7777777777777777,-25.0,9,1,8
+Alcorn State,-2.7777777777777777,-25.0,9,3,6
+Hampton,-2.7777777777777777,-25.0,9,2,7
+La Verne,-2.857142857142857,-20.0,7,1,6
+UVA Wise,-2.875,-23.0,8,1,7
+Moravian,-2.875,-23.0,8,1,7
+West Liberty,-2.888888888888889,-26.0,9,2,7
+Southern,-2.888888888888889,-26.0,9,1,8
+North Carolina A&T,-2.888888888888889,-26.0,9,2,7
+Northwestern Oklahoma State,-2.888888888888889,-26.0,9,1,8
+Eastern Michigan,-2.888888888888889,-26.0,9,2,7
+Langston University,-3.0,-6.0,2,0,0
+Texas Wesleyan,-3.0,-6.0,2,0,0
+CENTENARY,-3.0,-21.0,7,1,6
+Elmhurst,-3.0,-24.0,8,1,7
+Fordham,-3.0,-27.0,9,1,8
+Reading,-3.0,-24.0,8,0,8
+Minot State,-3.0,-27.0,9,2,7
+Pace,-3.0,-27.0,9,1,8
+Louisiana College,-3.0,-6.0,2,0,0
+Bethel University Tennessee,-3.0,-3.0,1,0,0
+Davidson,-3.111111111111111,-28.0,9,1,8
+Boston College,-3.111111111111111,-28.0,9,1,8
+ERSKINE,-3.111111111111111,-28.0,9,1,8
+Bloomsburg,-3.111111111111111,-28.0,9,2,7
+Thomas More College,-3.111111111111111,-28.0,9,0,9
+Middle Tennessee,-3.125,-25.0,8,1,7
+SUNY Morrisville,-3.125,-25.0,8,0,8
+Northwestern State,-3.2222222222222223,-29.0,9,1,8
+Greeneville,-3.25,-26.0,8,1,7
+New England College,-3.25,-26.0,8,0,0
+Averett,-3.25,-26.0,8,0,8
+Norwich,-3.25,-26.0,8,1,7
+Sam Houston,-3.25,-26.0,8,0,8
+Puget Sound,-3.25,-26.0,8,1,7
+Houston Christian,-3.3333333333333335,-30.0,9,2,7
+Samford,-3.3333333333333335,-30.0,9,1,8
+Shorter,-3.3333333333333335,-30.0,9,2,7
+Southern Nazarene,-3.3333333333333335,-30.0,9,1,8
+Fort Lewis,-3.3333333333333335,-30.0,9,2,7
+FDU-Florham,-3.375,-27.0,8,0,8
+Lawrence University,-3.4285714285714284,-24.0,7,0,7
+Adams State,-3.4444444444444446,-31.0,9,0,9
+Rockford,-3.4444444444444446,-31.0,9,1,8
+VMI,-3.4444444444444446,-31.0,9,1,8
+Jamestown College,-3.5,-28.0,8,1,7
+Norfolk State,-3.5555555555555554,-32.0,9,1,8
+Austin,-3.5714285714285716,-25.0,7,1,6
+Oberlin,-3.625,-29.0,8,0,8
+Luther,-3.625,-29.0,8,0,8
+Murray State,-3.6666666666666665,-33.0,9,0,9
+Mississippi Valley State,-3.75,-30.0,8,1,7
+Manchester,-3.875,-31.0,8,0,8
+Dean College,-3.875,-31.0,8,0,8
+Hilbert College,-3.875,-31.0,8,0,8
+Millersville,-3.888888888888889,-35.0,9,0,9
+Oklahoma Panhandle St,-4.0,-4.0,1,0,1
+Simpson University (Ca),-4.0,-4.0,1,0,0
+Willamette,-4.125,-33.0,8,1,7
+Beloit,-4.125,-33.0,8,1,7
+West Virginia Wesleyan,-4.2,-42.0,10,0,10
+Massachusetts,-4.222222222222222,-38.0,9,0,9
+Apprentice School,-4.333333333333333,-13.0,3,0,3
+Lincoln (PA),-4.333333333333333,-39.0,9,0,9
+Bethany (WV),-4.375,-35.0,8,0,8
+St. Francis (PA),-4.625,-37.0,8,0,8
+Sul Ross State,-4.625,-37.0,8,0,9
+Central Methodist,-5.0,-5.0,1,0,0
+Midland Lutheran College,-5.0,-5.0,1,0,0
+Virginia University Of Lynchburg,-5.0,-30.0,6,0,0
+Lincoln (CA),-5.375,-43.0,8,0,8
+Lane College,-5.444444444444445,-49.0,9,0,9
+Warner University,-6.0,-6.0,1,0,0
+Florida Memorial University,-7.0,-7.0,1,0,0
+Phoenix,-7.0,-7.0,1,0,0

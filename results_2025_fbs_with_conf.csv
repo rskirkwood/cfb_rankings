@@ -1,0 +1,137 @@
+team,normalized_score,raw_score,games_processed,wins,losses,conference
+Ohio State,5.25,42.0,8,8,0,Big Ten
+Indiana,4.888888888888889,44.0,9,9,0,Big Ten
+Texas A&M,4.125,33.0,8,8,0,SEC
+BYU,4.0,32.0,8,8,0,Big 12
+Georgia,4.0,32.0,8,7,1,SEC
+Louisville,3.75,30.0,8,7,1,ACC
+Alabama,3.75,30.0,8,7,1,SEC
+Virginia,3.5555555555555554,32.0,9,8,1,ACC
+North Texas,3.5555555555555554,32.0,9,8,1,AAC
+Oklahoma,3.4444444444444446,31.0,9,7,2,SEC
+Ole Miss,3.3333333333333335,30.0,9,8,1,SEC
+Texas Tech,3.2222222222222223,29.0,9,8,1,Big 12
+Georgia Tech,3.111111111111111,28.0,9,8,1,ACC
+Utah,3.111111111111111,28.0,9,7,2,Big 12
+Oregon,3.0,24.0,8,7,1,Big Ten
+Washington,3.0,24.0,8,6,2,Big Ten
+South Florida,3.0,24.0,8,6,2,AAC
+Michigan,2.888888888888889,26.0,9,7,2,Big Ten
+Miami,2.875,23.0,8,6,2,ACC
+James Madison,2.75,22.0,8,7,1,Sun Belt
+Arizona State,2.6666666666666665,24.0,9,6,3,Big 12
+USC,2.625,21.0,8,6,2,Big Ten
+Vanderbilt,2.5555555555555554,23.0,9,7,2,SEC
+Memphis,2.5555555555555554,23.0,9,8,1,AAC
+Notre Dame,2.5,20.0,8,6,2,Independent
+Texas,2.4444444444444446,22.0,9,7,2,SEC
+Illinois,2.4444444444444446,22.0,9,6,3,Big Ten
+Navy,2.375,19.0,8,7,1,AAC
+San Diego State,2.375,19.0,8,7,1,MW
+Houston,2.3333333333333335,21.0,9,7,2,Big 12
+Tulane,2.25,18.0,8,6,2,AAC
+LSU,2.25,18.0,8,5,3,SEC
+Old Dominion,2.2222222222222223,20.0,9,6,3,Sun Belt
+Southern Miss,2.125,17.0,8,6,2,Sun Belt
+TCU,2.125,17.0,8,6,2,Big 12
+Pittsburgh,2.111111111111111,19.0,9,7,2,ACC
+Cincinnati,2.111111111111111,19.0,9,7,2,Big 12
+Kennesaw State,2.0,16.0,8,6,2,C-USA
+Nebraska,2.0,18.0,9,6,3,Big Ten
+Missouri,1.875,15.0,8,6,2,SEC
+Tennessee,1.7777777777777777,16.0,9,6,3,SEC
+Boise State,1.7777777777777777,16.0,9,6,3,MW
+Wake Forest,1.75,14.0,8,5,3,ACC
+Duke,1.75,14.0,8,5,3,ACC
+NC State,1.6666666666666667,15.0,9,5,4,ACC
+Iowa State,1.6666666666666667,15.0,9,5,4,Big 12
+Minnesota,1.6666666666666667,15.0,9,6,3,Big Ten
+Iowa,1.5,12.0,8,6,2,Big Ten
+East Carolina,1.5,12.0,8,5,3,AAC
+SMU,1.4444444444444444,13.0,9,6,3,ACC
+Louisiana Tech,1.375,11.0,8,5,3,C-USA
+Arizona,1.375,11.0,8,5,3,Big 12
+UNLV,1.375,11.0,8,6,2,MW
+Coastal Carolina,1.25,10.0,8,5,3,Sun Belt
+Western Kentucky,1.2222222222222223,11.0,9,7,2,C-USA
+New Mexico,1.1111111111111112,10.0,9,6,3,MW
+Ohio,1.1111111111111112,10.0,9,6,3,AAC
+Mississippi State,1.0,9.0,9,5,4,SEC
+Troy,1.0,9.0,9,6,3,Sun Belt
+Missouri State,1.0,8.0,8,5,3,C-USA
+Fresno State,0.8888888888888888,8.0,9,6,3,MW
+Northwestern,0.875,7.0,8,5,3,Big Ten
+Florida,0.875,7.0,8,3,5,SEC
+Kansas,0.7777777777777778,7.0,9,5,4,Big 12
+Florida State,0.75,6.0,8,4,4,ACC
+UConn,0.6666666666666666,6.0,9,6,3,Independent
+UTSA,0.625,5.0,8,4,4,AAC
+Kansas State,0.5555555555555556,5.0,9,4,5,Big 12
+Washington State,0.5555555555555556,5.0,9,4,5,Pac-12
+California,0.5555555555555556,5.0,9,5,4,ACC
+Western Michigan,0.5555555555555556,5.0,9,5,4,AAC
+Temple,0.4444444444444444,4.0,9,5,4,AAC
+Baylor,0.4444444444444444,4.0,9,5,4,Big 12
+Army,0.375,3.0,8,4,4,AAC
+Rutgers,0.3333333333333333,3.0,9,4,5,Big Ten
+Colorado,0.3333333333333333,3.0,9,3,6,Big 12
+Rice,0.3333333333333333,3.0,9,4,5,AAC
+UAB,0.25,2.0,8,3,5,AAC
+Utah State,0.25,2.0,8,4,4,MW
+West Virginia,0.2222222222222222,2.0,9,3,6,Big 12
+Auburn,0.2222222222222222,2.0,9,4,5,SEC
+Maryland,0.125,1.0,8,4,4,Big Ten
+Liberty,0.125,1.0,8,4,4,C-USA
+Marshall,0.125,1.0,8,4,4,Sun Belt
+Delaware,0.125,1.0,8,4,4,C-USA
+Miami (OH),0.1111111111111111,1.0,9,5,4,AAC
+Hawai'i,0.1111111111111111,1.0,9,6,3,MW
+South Carolina,0.1111111111111111,1.0,9,3,6,SEC
+UCLA,0.0,0.0,8,3,5,Big Ten
+Georgia Southern,-0.125,-1.0,8,3,5,Sun Belt
+Penn State,-0.125,-1.0,8,3,5,Big Ten
+Arkansas State,-0.2222222222222222,-2.0,9,5,4,Sun Belt
+UCF,-0.25,-2.0,8,4,4,Big 12
+Jacksonville State,-0.25,-2.0,8,5,3,C-USA
+Florida International,-0.25,-2.0,8,3,5,C-USA
+Virginia Tech,-0.3333333333333333,-3.0,9,3,6,ACC
+Stanford,-0.3333333333333333,-3.0,9,3,6,ACC
+Central Michigan,-0.3333333333333333,-3.0,9,5,4,AAC
+Toledo,-0.375,-3.0,8,4,4,AAC
+Kentucky,-0.375,-3.0,8,3,5,SEC
+Florida Atlantic,-0.375,-3.0,8,3,5,AAC
+App State,-0.375,-3.0,8,4,4,Sun Belt
+Michigan State,-0.4444444444444444,-4.0,9,3,6,Big Ten
+Syracuse,-0.4444444444444444,-4.0,9,3,6,ACC
+Wisconsin,-0.5,-4.0,8,2,6,Big Ten
+Bowling Green,-0.5555555555555556,-5.0,9,3,6,AAC
+San José State,-0.625,-5.0,8,3,5,MW
+Wyoming,-0.6666666666666666,-6.0,9,4,5,MW
+Clemson,-0.75,-6.0,8,3,5,ACC
+Texas State,-0.75,-6.0,8,3,5,Sun Belt
+Buffalo,-0.7777777777777778,-7.0,9,5,4,AAC
+Arkansas,-0.7777777777777778,-7.0,9,2,7,SEC
+North Carolina,-0.875,-7.0,8,3,5,ACC
+Oregon State,-0.8888888888888888,-8.0,9,2,7,Pac-12
+UL Monroe,-0.8888888888888888,-8.0,9,3,6,Sun Belt
+Akron,-1.1,-11.0,10,4,6,AAC
+Kent State,-1.125,-9.0,8,3,5,AAC
+Air Force,-1.125,-9.0,8,2,6,MW
+Purdue,-1.2222222222222223,-11.0,9,2,7,Big Ten
+Louisiana,-1.2222222222222223,-11.0,9,3,6,Sun Belt
+Ball State,-1.25,-10.0,8,3,5,AAC
+Tulsa,-1.25,-10.0,8,2,6,AAC
+Colorado State,-1.375,-11.0,8,2,6,MW
+New Mexico State,-1.375,-11.0,8,3,5,C-USA
+Oklahoma State,-2.111111111111111,-19.0,9,1,8,Big 12
+Charlotte,-2.125,-17.0,8,1,7,AAC
+UTEP,-2.125,-17.0,8,2,6,C-USA
+South Alabama,-2.2222222222222223,-20.0,9,2,7,Sun Belt
+Nevada,-2.375,-19.0,8,1,7,MW
+Northern Illinois,-2.375,-19.0,8,2,6,AAC
+Georgia State,-2.625,-21.0,8,1,7,Sun Belt
+Eastern Michigan,-2.888888888888889,-26.0,9,2,7,AAC
+Boston College,-3.111111111111111,-28.0,9,1,8,ACC
+Middle Tennessee,-3.125,-25.0,8,1,7,C-USA
+Sam Houston,-3.25,-26.0,8,0,8,C-USA
+Massachusetts,-4.222222222222222,-38.0,9,0,9,AAC
