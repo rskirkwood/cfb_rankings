@@ -109,6 +109,29 @@ def fetch_games_weekly(year=YEAR, season_type="regular", max_weeks=MAX_WEEKS):
             uniq[gid] = g
     return list(uniq.values())
 
+def fetch_teams_fbs(year=YEAR):
+    """Fetch FBS teams metadata (includes mascots) for the given year."""
+    url = f"{BASE}/teams/fbs"
+    r = session.get(url, headers=HEADERS, params={"year": year}, timeout=30)
+    r.raise_for_status()
+    return r.json()
+
+def build_mascot_map(teams_json):
+    """
+    Build a mapping of team name -> mascot.
+
+    We use the 'school' field, which should match the team names used
+    in the records/games APIs (e.g., 'Georgia', 'Ohio State', etc.).
+    """
+    mascot_map = {}
+    for t in teams_json:
+        school = t.get("school") or t.get("team") or t.get("name")
+        mascot = t.get("mascot")
+        if school and mascot:
+            mascot_map[school] = mascot
+    return mascot_map
+
+
 def build_records_map(records_json):
     rec_map = {}
     for rec in records_json:
@@ -245,6 +268,8 @@ def main():
     games_json = fetch_games_weekly(YEAR, season_type="regular", max_weeks=MAX_WEEKS)
     print(f"Records returned: {len(recs_json)}  — Games returned (combined weekly): {len(games_json)}")
 
+    teams_json = fetch_teams_fbs(YEAR)
+    mascot_map = build_mascot_map(teams_json)
     records_map = build_records_map(recs_json)
     edges, class_map, conf_map = build_completed_edges_and_maps(games_json)
     print(f"Completed games with scores: {len(edges)} (these are used for scoring)")
@@ -262,6 +287,9 @@ def main():
     })
     df = df.sort_values(by="normalized_score", ascending=False).reset_index(drop=True)
     df = apply_fbs_filter_and_attach_conf(df, class_map, conf_map)
+
+    # attach mascot from teams metadata
+    df["mascot"] = df["team"].map(lambda t: mascot_map.get(t))
 
     # abbreviate conferences for display/CSV
     df["conference"] = df["conference"].map(lambda c: abbrev_conf(c))
