@@ -1,137 +1,137 @@
-team,normalized_score,raw_score,games_processed,wins,losses,conference,mascot
-Ohio State,5.2,52.0,10,10,0,Big Ten,Buckeyes
-Georgia,5.1,51.0,10,9,1,SEC,Bulldogs
-Indiana,5.090909090909091,56.0,11,11,0,Big Ten,Hoosiers
-Texas A&M,4.8,48.0,10,10,0,SEC,Aggies
-BYU,4.4,44.0,10,9,1,Big 12,Cougars
-Oklahoma,4.3,43.0,10,8,2,SEC,Sooners
-Texas Tech,4.181818181818182,46.0,11,10,1,Big 12,Red Raiders
-North Texas,4.1,41.0,10,9,1,AAC,Mean Green
-Oregon,4.1,41.0,10,9,1,Big Ten,Ducks
-Ole Miss,4.0,44.0,11,10,1,SEC,Rebels
-Alabama,3.9,39.0,10,8,2,SEC,Crimson Tide
-USC,3.8,38.0,10,8,2,Big Ten,Trojans
-Notre Dame,3.7,37.0,10,8,2,Independent,Fighting Irish
-Virginia,3.6363636363636362,40.0,11,9,2,ACC,Cavaliers
-Michigan,3.6,36.0,10,8,2,Big Ten,Wolverines
-Tulane,3.4,34.0,10,8,2,AAC,Green Wave
-James Madison,3.4,34.0,10,9,1,Sun Belt,Dukes
-Utah,3.4,34.0,10,8,2,Big 12,Utes
-Georgia Tech,3.4,34.0,10,9,1,ACC,Yellow Jackets
-Miami,3.3,33.0,10,8,2,ACC,Hurricanes
-Arizona State,3.2,32.0,10,7,3,Big 12,Sun Devils
-Houston,3.0,30.0,10,8,2,Big 12,Cougars
-Illinois,3.0,30.0,10,7,3,Big Ten,Fighting Illini
-South Florida,2.9,29.0,10,7,3,AAC,Bulls
-Vanderbilt,2.8,28.0,10,8,2,SEC,Commodores
-Navy,2.8,28.0,10,8,2,AAC,Midshipmen
-San Diego State,2.7,27.0,10,8,2,MW,Aztecs
-Wake Forest,2.7,27.0,10,7,3,ACC,Demon Deacons
-Old Dominion,2.7,27.0,10,7,3,Sun Belt,Monarchs
-Texas,2.5,25.0,10,7,3,SEC,Longhorns
-Arizona,2.4,24.0,10,7,3,Big 12,Wildcats
-Louisville,2.4,24.0,10,7,3,ACC,Cardinals
-Iowa State,2.3,23.0,10,6,4,Big 12,Cyclones
-Washington,2.3,23.0,10,7,3,Big Ten,Huskies
-UNLV,2.2,22.0,10,8,2,MW,Rebels
-East Carolina,2.2,22.0,10,7,3,AAC,Pirates
-Tennessee,2.2,22.0,10,7,3,SEC,Volunteers
-LSU,2.1,21.0,10,6,4,SEC,Tigers
-Missouri,2.0,20.0,10,7,3,SEC,Tigers
-Nebraska,2.0,20.0,10,7,3,Big Ten,Cornhuskers
-Memphis,1.9090909090909092,21.0,11,8,3,AAC,Tigers
-Boise State,1.9,19.0,10,6,4,MW,Broncos
-Missouri State,1.9,19.0,10,7,3,C-USA,Bears
-Southern Miss,1.9,19.0,10,7,3,Sun Belt,Golden Eagles
-SMU,1.8,18.0,10,7,3,ACC,Mustangs
-Kennesaw State,1.8,18.0,10,7,3,C-USA,Owls
-Western Kentucky,1.8,18.0,10,8,2,C-USA,Hilltoppers
-TCU,1.7,17.0,10,6,4,Big 12,Horned Frogs
-Pittsburgh,1.7,17.0,10,7,3,ACC,Panthers
-Cincinnati,1.7,17.0,10,7,3,Big 12,Bearcats
-NC State,1.5,15.0,10,5,5,ACC,Wolfpack
-New Mexico,1.5,15.0,10,7,3,MW,Lobos
-Western Michigan,1.5,15.0,10,6,4,AAC,Broncos
-UConn,1.4545454545454546,16.0,11,8,3,Independent,Huskies
-Minnesota,1.4,14.0,10,6,4,Big Ten,Golden Gophers
-Duke,1.3,13.0,10,5,5,ACC,Blue Devils
-Kentucky,1.2,12.0,10,5,5,SEC,Wildcats
-Iowa,1.2,12.0,10,6,4,Big Ten,Hawkeyes
-Fresno State,1.2,12.0,10,7,3,MW,Bulldogs
-Army,1.1111111111111112,10.0,9,5,4,AAC,Black Knights
-Hawai'i,1.1,11.0,10,7,3,MW,Rainbow Warriors
-Ohio,1.1,11.0,10,6,4,AAC,Bobcats
-Georgia Southern,1.0,10.0,10,5,5,Sun Belt,Eagles
-Washington State,0.9,9.0,10,5,5,Pac-12,Cougars
-California,0.9,9.0,10,6,4,ACC,Golden Bears
-Toledo,0.7,7.0,10,6,4,AAC,Rockets
-Coastal Carolina,0.7,7.0,10,6,4,Sun Belt,Chanticleers
-Jacksonville State,0.7,7.0,10,7,3,C-USA,Gamecocks
-Troy,0.7,7.0,10,6,4,Sun Belt,Trojans
-Mississippi State,0.6363636363636364,7.0,11,5,6,SEC,Bulldogs
-Kansas,0.6,6.0,10,5,5,Big 12,Jayhawks
-Rice,0.6,6.0,10,5,5,AAC,Owls
-Florida State,0.6,6.0,10,5,5,ACC,Seminoles
-Kansas State,0.6,6.0,10,5,5,Big 12,Wildcats
-Northwestern,0.5,5.0,10,5,5,Big Ten,Wildcats
-UTSA,0.5,5.0,10,5,5,AAC,Roadrunners
-Central Michigan,0.4,4.0,10,6,4,AAC,Chippewas
-Utah State,0.4,4.0,10,5,5,MW,Aggies
-Louisiana Tech,0.3,3.0,10,5,5,C-USA,Bulldogs
-Clemson,0.3,3.0,10,5,5,ACC,Tigers
-Rutgers,0.3,3.0,10,5,5,Big Ten,Scarlet Knights
-South Carolina,0.2,2.0,10,3,7,SEC,Gamecocks
-Florida International,0.2,2.0,10,5,5,C-USA,Panthers
-Marshall,0.2,2.0,10,5,5,Sun Belt,Thundering Herd
-Auburn,0.1,1.0,10,4,6,SEC,Tigers
-Temple,0.1,1.0,10,5,5,AAC,Owls
-Delaware,0.1,1.0,10,5,5,C-USA,Blue Hens
-Florida,0.1,1.0,10,3,7,SEC,Gators
-Penn State,0.1,1.0,10,4,6,Big Ten,Nittany Lions
-Baylor,0.0,0.0,10,5,5,Big 12,Bears
-Miami (OH),0.0,0.0,10,5,5,AAC,RedHawks
-Wisconsin,-0.2,-2.0,10,3,7,Big Ten,Badgers
-Arkansas State,-0.3,-3.0,10,5,5,Sun Belt,Red Wolves
-West Virginia,-0.36363636363636365,-4.0,11,4,7,Big 12,Mountaineers
-UCLA,-0.4,-4.0,10,3,7,Big Ten,Bruins
-UAB,-0.4,-4.0,10,3,7,AAC,Blazers
-UCF,-0.4,-4.0,10,4,6,Big 12,Knights
-Texas State,-0.4,-4.0,10,4,6,Sun Belt,Bobcats
-Colorado,-0.5,-5.0,10,3,7,Big 12,Buffaloes
-Florida Atlantic,-0.5,-5.0,10,4,6,AAC,Owls
-Syracuse,-0.6,-6.0,10,3,7,ACC,Orange
-Liberty,-0.6,-6.0,10,4,6,C-USA,Flames
-Maryland,-0.6,-6.0,10,4,6,Big Ten,Terrapins
-Louisiana,-0.7,-7.0,10,4,6,Sun Belt,Ragin' Cajuns
-Virginia Tech,-0.8,-8.0,10,3,7,ACC,Hokies
-Michigan State,-1.0,-10.0,10,3,7,Big Ten,Spartans
-Stanford,-1.1,-11.0,10,3,7,ACC,Cardinal
-Air Force,-1.1,-11.0,10,3,7,MW,Falcons
-North Carolina,-1.1,-11.0,10,4,6,ACC,Tar Heels
-Buffalo,-1.1,-11.0,10,5,5,AAC,Bulls
-App State,-1.1,-11.0,10,4,6,Sun Belt,Mountaineers
-Wyoming,-1.1,-11.0,10,4,6,MW,Cowboys
-Kent State,-1.3,-13.0,10,4,6,AAC,Golden Flashes
-Bowling Green,-1.4,-14.0,10,3,7,AAC,Falcons
-Purdue,-1.4545454545454546,-16.0,11,2,9,Big Ten,Boilermakers
-Ball State,-1.5,-15.0,10,4,6,AAC,Cardinals
-Arkansas,-1.6,-16.0,10,2,8,SEC,Razorbacks
-New Mexico State,-1.7,-17.0,10,3,7,C-USA,Aggies
-Tulsa,-1.8,-18.0,10,3,7,AAC,Golden Hurricane
-Akron,-1.8181818181818181,-20.0,11,4,7,AAC,Zips
-Colorado State,-1.9,-19.0,10,2,8,MW,Rams
-Eastern Michigan,-1.9090909090909092,-21.0,11,4,7,AAC,Eagles
-South Alabama,-2.0,-20.0,10,3,7,Sun Belt,Jaguars
-Oregon State,-2.0,-22.0,11,2,9,Pac-12,Beavers
-UL Monroe,-2.1,-21.0,10,3,7,Sun Belt,Warhawks
-San José State,-2.2,-22.0,10,3,7,MW,Spartans
-Nevada,-2.4,-24.0,10,2,8,MW,Wolf Pack
-Oklahoma State,-2.6,-26.0,10,1,9,Big 12,Cowboys
-Sam Houston,-2.6,-26.0,10,2,8,C-USA,Bearkats
-UTEP,-2.7,-27.0,10,2,8,C-USA,Miners
-Northern Illinois,-2.8,-28.0,10,3,7,AAC,Huskies
-Charlotte,-2.9,-29.0,10,1,9,AAC,49ers
-Boston College,-3.3636363636363638,-37.0,11,1,10,ACC,Eagles
-Georgia State,-3.4,-34.0,10,1,9,Sun Belt,Panthers
-Middle Tennessee,-3.5,-35.0,10,1,9,C-USA,Blue Raiders
-Massachusetts,-5.3,-53.0,10,0,10,AAC,Minutemen
+team,normalized_score,raw_score,fbs_games_processed,wins,losses,conference,mascot
+Indiana,5.26,52.6,10,11,0,Big Ten,Hoosiers
+Ohio State,5.220000000000001,52.2,10,11,0,Big Ten,Buckeyes
+BYU,5.220000000000001,52.2,10,10,1,Big 12,Cougars
+Texas A&M,4.92,49.2,10,11,0,SEC,Aggies
+Georgia,4.5600000000000005,45.6,10,10,1,SEC,Bulldogs
+Texas Tech,4.36,43.6,10,10,1,Big 12,Red Raiders
+Oklahoma,4.34,43.4,10,9,2,SEC,Sooners
+Oregon,4.32,43.2,10,10,1,Big Ten,Ducks
+Alabama,4.279999999999999,42.8,10,9,2,SEC,Crimson Tide
+Ole Miss,3.8,38.0,10,10,1,SEC,Rebels
+Utah,3.54,35.4,10,9,2,Big 12,Utes
+Michigan,3.4545454545454546,38.0,11,9,2,Big Ten,Wolverines
+Notre Dame,3.3636363636363638,37.0,11,9,2,Independent,Fighting Irish
+USC,3.1090909090909093,34.2,11,8,3,Big Ten,Trojans
+Miami,3.08,30.8,10,9,2,ACC,Hurricanes
+Virginia,3.06,30.6,10,9,2,ACC,Cavaliers
+Vanderbilt,3.02,30.2,10,9,2,SEC,Commodores
+Arizona State,2.8,28.0,10,8,3,Big 12,Sun Devils
+Tulane,2.5636363636363635,28.2,11,9,2,AAC,Green Wave
+Georgia Tech,2.5,25.0,10,9,2,ACC,Yellow Jackets
+North Texas,2.4,24.0,10,10,1,AAC,Mean Green
+Texas,2.290909090909091,25.2,11,8,3,SEC,Longhorns
+Arizona,2.2199999999999998,22.2,10,8,3,Big 12,Wildcats
+James Madison,2.18,21.8,10,10,1,Sun Belt,Dukes
+SMU,2.12,21.2,10,8,3,ACC,Mustangs
+Wake Forest,2.0,20.0,10,8,3,ACC,Demon Deacons
+Illinois,1.98,19.8,10,7,4,Big Ten,Fighting Illini
+Pittsburgh,1.92,19.2,10,8,3,ACC,Panthers
+Iowa State,1.9,19.0,10,7,4,Big 12,Cyclones
+LSU,1.8399999999999999,18.4,10,7,4,SEC,Tigers
+TCU,1.8,18.0,10,7,4,Big 12,Horned Frogs
+Navy,1.7999999999999998,16.2,9,8,2,AAC,Midshipmen
+Tennessee,1.7200000000000002,17.200000000000003,10,8,3,SEC,Volunteers
+Houston,1.72,17.2,10,8,3,Big 12,Cougars
+Washington,1.6199999999999999,16.2,10,8,3,Big Ten,Huskies
+Missouri,1.6,16.0,10,7,4,SEC,Tigers
+Cincinnati,1.5399999999999998,15.399999999999999,10,7,4,Big 12,Bearcats
+NC State,1.52,15.2,10,6,5,ACC,Wolfpack
+Iowa,1.5,15.0,10,7,4,Big Ten,Hawkeyes
+South Florida,1.4600000000000002,14.600000000000001,10,8,3,AAC,Bulls
+Louisville,1.44,14.399999999999999,10,7,4,ACC,Cardinals
+UNLV,1.4,14.0,10,9,2,MW,Rebels
+Old Dominion,1.4,14.0,10,8,3,Sun Belt,Monarchs
+San Diego State,1.3400000000000003,13.400000000000002,10,9,2,MW,Aztecs
+Kennesaw State,1.22,12.2,10,8,3,C-USA,Owls
+Duke,1.2,12.0,10,6,5,ACC,Blue Devils
+Nebraska,1.0,10.0,10,7,4,Big Ten,Cornhuskers
+Boise State,0.7000000000000001,7.000000000000001,10,7,4,MW,Broncos
+Northwestern,0.5800000000000001,5.800000000000001,10,6,5,Big Ten,Wildcats
+Memphis,0.5399999999999998,5.399999999999999,10,8,3,AAC,Tigers
+New Mexico,0.5199999999999999,5.199999999999999,10,8,3,MW,Lobos
+Minnesota,0.5,5.0,10,6,5,Big Ten,Golden Gophers
+East Carolina,0.43999999999999984,4.399999999999999,10,7,4,AAC,Pirates
+Western Kentucky,0.43999999999999984,4.399999999999999,10,8,3,C-USA,Hilltoppers
+Wisconsin,0.3454545454545455,3.8000000000000007,11,4,7,Big Ten,Badgers
+UConn,0.18181818181818185,2.0000000000000004,11,9,3,Independent,Huskies
+Missouri State,0.18,1.7999999999999998,10,7,4,C-USA,Bears
+Western Michigan,0.10909090909090907,1.1999999999999997,11,8,4,MAC,Broncos
+Hawai'i,0.019999999999999928,0.1999999999999993,10,7,4,MW,Rainbow Warriors
+Utah State,-0.020000000000000018,-0.20000000000000018,10,6,5,MW,Aggies
+Clemson,-0.08000000000000007,-0.8000000000000007,10,6,5,ACC,Tigers
+Florida State,-0.15999999999999998,-1.5999999999999996,10,5,6,ACC,Seminoles
+UTSA,-0.16000000000000014,-1.6000000000000014,10,6,5,AAC,Roadrunners
+Kentucky,-0.24000000000000005,-2.4000000000000004,10,5,6,SEC,Wildcats
+Washington State,-0.26000000000000006,-2.6000000000000005,10,5,6,Pac-12,Cougars
+Penn State,-0.2600000000000001,-2.6000000000000014,10,5,6,Big Ten,Nittany Lions
+Ohio,-0.28,-2.8000000000000003,10,7,4,MAC,Bobcats
+Baylor,-0.3,-3.0,10,5,6,Big 12,Bears
+Kansas State,-0.3,-3.0,10,5,6,Big 12,Wildcats
+Mississippi State,-0.3,-3.0,10,5,6,SEC,Bulldogs
+Army,-0.31111111111111117,-2.8000000000000007,9,5,5,AAC,Black Knights
+Auburn,-0.31999999999999995,-3.1999999999999993,10,5,6,SEC,Tigers
+Rutgers,-0.32,-3.2,10,5,6,Big Ten,Scarlet Knights
+Troy,-0.32000000000000006,-3.2000000000000006,10,7,4,Sun Belt,Trojans
+South Carolina,-0.34,-3.4000000000000004,10,4,7,SEC,Gamecocks
+Central Michigan,-0.4,-4.0,10,7,4,MAC,Chippewas
+California,-0.48,-4.8,10,6,5,ACC,Golden Bears
+Fresno State,-0.5199999999999999,-5.199999999999999,10,7,4,MW,Bulldogs
+Southern Miss,-0.6,-6.0,10,7,4,Sun Belt,Golden Eagles
+Toledo,-0.6,-6.0,10,7,4,MAC,Rockets
+UCLA,-0.6363636363636364,-7.0,11,3,8,Big Ten,Bruins
+Rice,-0.66,-6.6000000000000005,10,5,6,AAC,Owls
+West Virginia,-0.7,-7.0,10,4,7,Big 12,Mountaineers
+Florida,-0.7,-7.0,10,3,8,SEC,Gators
+Florida International,-0.7000000000000001,-7.000000000000001,10,6,5,C-USA,Panthers
+Jacksonville State,-0.7200000000000001,-7.200000000000001,10,7,4,C-USA,Gamecocks
+Stanford,-0.7454545454545454,-8.2,11,4,7,ACC,Cardinal
+Kansas,-0.78,-7.8,10,5,6,Big 12,Jayhawks
+Miami (OH),-0.8,-8.0,10,6,5,MAC,RedHawks
+Georgia Southern,-0.96,-9.6,10,5,6,Sun Belt,Eagles
+Temple,-1.04,-10.4,10,5,6,AAC,Owls
+Louisiana Tech,-1.06,-10.6,10,6,5,C-USA,Bulldogs
+Coastal Carolina,-1.1199999999999999,-11.2,10,6,5,Sun Belt,Chanticleers
+Colorado,-1.1454545454545455,-12.6,11,3,8,Big 12,Buffaloes
+Syracuse,-1.2,-12.0,10,3,8,ACC,Orange
+UCF,-1.28,-12.8,10,5,6,Big 12,Knights
+Marshall,-1.34,-13.4,10,5,6,Sun Belt,Thundering Herd
+Texas State,-1.4,-14.0,10,5,6,Sun Belt,Bobcats
+Louisiana,-1.56,-15.600000000000001,10,5,6,Sun Belt,Ragin' Cajuns
+Delaware,-1.6600000000000001,-16.6,10,5,6,C-USA,Blue Hens
+Virginia Tech,-1.7,-17.0,10,3,8,ACC,Hokies
+App State,-1.7600000000000002,-17.6,10,5,6,Sun Belt,Mountaineers
+Florida Atlantic,-1.7799999999999998,-17.799999999999997,10,4,7,AAC,Owls
+Maryland,-1.8800000000000001,-18.8,10,4,7,Big Ten,Terrapins
+Buffalo,-2.0799999999999996,-20.799999999999997,10,5,6,MAC,Bulls
+Arkansas State,-2.14,-21.400000000000002,10,5,6,Sun Belt,Red Wolves
+UAB,-2.2199999999999998,-22.2,10,3,8,AAC,Blazers
+North Carolina,-2.2399999999999998,-22.4,10,4,7,ACC,Tar Heels
+New Mexico State,-2.32,-23.2,10,4,7,C-USA,Aggies
+Liberty,-2.34,-23.4,10,4,7,C-USA,Flames
+South Alabama,-2.34,-23.4,10,4,7,Sun Belt,Jaguars
+Air Force,-2.38,-23.8,10,3,8,MW,Falcons
+Kent State,-2.46,-24.6,10,4,7,MAC,Golden Flashes
+Arkansas,-2.5,-25.0,10,2,9,SEC,Razorbacks
+Tulsa,-2.58,-25.8,10,4,7,AAC,Golden Hurricane
+Michigan State,-2.62,-26.2,10,3,8,Big Ten,Spartans
+Purdue,-2.7600000000000002,-27.6,10,2,9,Big Ten,Boilermakers
+Wyoming,-2.8,-28.0,10,4,7,MW,Cowboys
+Eastern Michigan,-2.854545454545455,-31.400000000000006,11,4,8,MAC,Eagles
+Akron,-2.9454545454545453,-32.4,11,5,7,MAC,Zips
+UL Monroe,-3.18,-31.8,10,3,8,Sun Belt,Warhawks
+Colorado State,-3.18,-31.8,10,2,9,MW,Rams
+Nevada,-3.1800000000000006,-31.800000000000004,10,3,8,MW,Wolf Pack
+Ball State,-3.2400000000000007,-32.400000000000006,10,4,7,MAC,Cardinals
+Bowling Green,-3.4,-37.4,11,4,8,MAC,Falcons
+San José State,-3.5,-35.0,10,3,8,MW,Spartans
+Oregon State,-3.6,-36.0,10,2,9,Pac-12,Beavers
+Northern Illinois,-3.7600000000000002,-37.6,10,3,8,MAC,Huskies
+Sam Houston,-3.8,-41.8,11,2,9,C-USA,Bearkats
+Middle Tennessee,-4.0,-40.0,10,2,9,C-USA,Blue Raiders
+Georgia State,-4.1,-41.0,10,1,10,Sun Belt,Panthers
+Boston College,-4.2,-42.0,10,1,10,ACC,Eagles
+Oklahoma State,-4.3,-43.0,10,1,10,Big 12,Cowboys
+Charlotte,-4.4,-44.0,10,1,10,AAC,49ers
+UTEP,-4.4799999999999995,-44.8,10,2,9,C-USA,Miners
+Massachusetts,-6.454545454545454,-71.0,11,0,12,MAC,Minutemen
